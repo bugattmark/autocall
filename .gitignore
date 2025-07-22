@@ -1,0 +1,25 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Data & models
+*.wav
+*.pth
+*.zip
+*.log
+*.json
+*.csv
+
+# Ngrok
+ngrok/
+ngrok-stable-*
+
+# AWS / SageMaker
+user-default-efs
+
+# OS files
+.DS_Store
